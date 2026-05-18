@@ -1,0 +1,59 @@
+{"application_id":1001,"candidate_id":501,"job_id":9001,"city":"Bangalore","designation":"Data Engineer","skills":"Python,PySpark,Kafka","experience":2,"salary_expected":1400000,"application_time":"2025-01-01 10:05:00","status":"Applied"}
+
+{"application_id":1002,"candidate_id":502,"job_id":9002,"city":"Hyderabad","designation":"Data Analyst","skills":"SQL,PowerBI,Python","experience":1,"salary_expected":900000,"application_time":"2025-01-01 10:06:00","status":"Applied"}
+
+{"application_id":1003,"candidate_id":503,"job_id":9003,"city":"Pune","designation":"Data Scientist","skills":"Python,ML,TensorFlow","experience":3,"salary_expected":1800000,"application_time":"2025-01-01 10:07:00","status":"Applied"}
+
+{"application_id":1004,"candidate_id":504,"job_id":9001,"city":"Bangalore","designation":"Data Engineer","skills":"Kafka,Spark,AWS","experience":2,"salary_expected":1500000,"application_time":"2025-01-01 10:08:00","status":"Shortlisted"}
+
+{"application_id":1005,"candidate_id":505,"job_id":9004,"city":"Mumbai","designation":"Cloud Engineer","skills":"Azure,Docker,Kubernetes","experience":4,"salary_expected":2000000,"application_time":"2025-01-01 10:09:00","status":"Applied"}
+
+{"application_id":1006,"candidate_id":506,"job_id":9002,"city":"Delhi","designation":"Data Analyst","skills":"Excel,SQL,Tableau","experience":2,"salary_expected":850000,"application_time":"2025-01-01 10:10:00","status":"Rejected"}
+
+{"application_id":1007,"candidate_id":507,"job_id":9005,"city":"Chennai","designation":"BI Developer","skills":"PowerBI,SQL,DAX","experience":3,"salary_expected":1200000,"application_time":"2025-01-01 10:11:00","status":"Applied"}
+
+{"application_id":1008,"candidate_id":508,"job_id":9001,"city":"Bangalore","designation":"Data Engineer","skills":"PySpark,Airflow,SQL","experience":1,"salary_expected":1100000,"application_time":"2025-01-01 10:12:00","status":"Applied"}
+
+{"application_id":1009,"candidate_id":509,"job_id":9006,"city":"Hyderabad","designation":"ML Engineer","skills":"Python,MLflow,PyTorch","experience":3,"salary_expected":2100000,"application_time":"2025-01-01 10:13:00","status":"Applied"}
+
+{"application_id":1010,"candidate_id":510,"job_id":9003,"city":"Pune","designation":"Data Scientist","skills":"Python,Statistics,R","experience":2,"salary_expected":1700000,"application_time":"2025-01-01 10:14:00","status":"Applied"}
+
+{"application_id":1011,"candidate_id":511,"job_id":9007,"city":"Gurgaon","designation":"DevOps Engineer","skills":"Docker,Jenkins,AWS","experience":4,"salary_expected":1900000,"application_time":"2025-01-01 10:15:00","status":"Shortlisted"}
+
+{"application_id":1012,"candidate_id":512,"job_id":9008,"city":"Noida","designation":"Backend Engineer","skills":"Java,SpringBoot,SQL","experience":2,"salary_expected":1300000,"application_time":"2025-01-01 10:16:00","status":"Applied"}
+
+{"application_id":1013,"candidate_id":513,"job_id":9009,"city":"Mumbai","designation":"Frontend Engineer","skills":"React,JavaScript,CSS","experience":2,"salary_expected":1250000,"application_time":"2025-01-01 10:17:00","status":"Applied"}
+
+{"application_id":1014,"candidate_id":514,"job_id":9010,"city":"Bangalore","designation":"Platform Engineer","skills":"Kafka,Kubernetes,Terraform","experience":5,"salary_expected":2400000,"application_time":"2025-01-01 10:18:00","status":"Applied"}
+
+{"application_id":1015,"candidate_id":515,"job_id":9001,"city":"Bangalore","designation":"Data Engineer","skills":"SQL,PySpark,Hadoop","experience":2,"salary_expected":1450000,"application_time":"2025-01-01 10:19:00","status":"Applied"}
+
+{"application_id":1016,"candidate_id":516,"job_id":9011,"city":"Kolkata","designation":"Business Analyst","skills":"Excel,SQL,PowerBI","experience":1,"salary_expected":800000,"application_time":"2025-01-01 10:20:00","status":"Applied"}
+
+{"application_id":1017,"candidate_id":517,"job_id":9012,"city":"Hyderabad","designation":"Site Reliability Engineer","skills":"Linux,Docker,Prometheus","experience":3,"salary_expected":1950000,"application_time":"2025-01-01 10:21:00","status":"Shortlisted"}
+
+{"application_id":1018,"candidate_id":518,"job_id":9002,"city":"Delhi","designation":"Data Analyst","skills":"SQL,Python,Tableau","experience":2,"salary_expected":950000,"application_time":"2025-01-01 10:22:00","status":"Applied"}
+
+{"application_id":1019,"candidate_id":519,"job_id":9003,"city":"Pune","designation":"Data Scientist","skills":"ML,NLP,Python","experience":4,"salary_expected":2200000,"application_time":"2025-01-01 10:23:00","status":"Applied"}
+
+{"application_id":1020,"candidate_id":520,"job_id":9013,"city":"Ahmedabad","designation":"QA Engineer","skills":"Selenium,Java,API","experience":2,"salary_expected":900000,"application_time":"2025-01-01 10:24:00","status":"Rejected"}
+
+{"application_id":1021,"candidate_id":521,"job_id":9014,"city":"Bangalore","designation":"Cloud Architect","skills":"Azure,AWS,Terraform","experience":6,"salary_expected":3200000,"application_time":"2025-01-01 10:25:00","status":"Applied"}
+
+{"application_id":1022,"candidate_id":522,"job_id":9015,"city":"Mumbai","designation":"Security Engineer","skills":"Cybersecurity,SIEM,Python","experience":5,"salary_expected":2600000,"application_time":"2025-01-01 10:26:00","status":"Applied"}
+
+{"application_id":1023,"candidate_id":523,"job_id":9001,"city":"Bangalore","designation":"Data Engineer","skills":"Kafka,SQL,Databricks","experience":3,"salary_expected":1750000,"application_time":"2025-01-01 10:27:00","status":"Shortlisted"}
+
+{"application_id":1024,"candidate_id":524,"job_id":9016,"city":"Pune","designation":"Analytics Engineer","skills":"dbt,Snowflake,SQL","experience":2,"salary_expected":1500000,"application_time":"2025-01-01 10:28:00","status":"Applied"}
+
+{"application_id":1025,"candidate_id":525,"job_id":9017,"city":"Hyderabad","designation":"AI Engineer","skills":"LLM,Python,Transformers","experience":3,"salary_expected":2800000,"application_time":"2025-01-01 10:29:00","status":"Applied"}
+
+{"application_id":1026,"candidate_id":526,"job_id":9018,"city":"Delhi","designation":"Full Stack Developer","skills":"React,NodeJS,MongoDB","experience":2,"salary_expected":1350000,"application_time":"2025-01-01 10:30:00","status":"Applied"}
+
+{"application_id":1027,"candidate_id":527,"job_id":9019,"city":"Chennai","designation":"Data Engineer","skills":"Spark,Hive,Scala","experience":4,"salary_expected":2100000,"application_time":"2025-01-01 10:31:00","status":"Applied"}
+
+{"application_id":1028,"candidate_id":528,"job_id":9020,"city":"Noida","designation":"MLOps Engineer","skills":"Kubeflow,Docker,AWS","experience":3,"salary_expected":2300000,"application_time":"2025-01-01 10:32:00","status":"Applied"}
+
+{"application_id":1029,"candidate_id":529,"job_id":9021,"city":"Gurgaon","designation":"Data Engineer","skills":"Airflow,PySpark,SQL","experience":2,"salary_expected":1600000,"application_time":"2025-01-01 10:33:00","status":"Shortlisted"}
+
+{"application_id":1030,"candidate_id":530,"job_id":9022,"city":"Mumbai","designation":"BI Analyst","skills":"PowerBI,Excel,SQL","experience":1,"salary_expected":850000,"application_time":"2025-01-01 10:34:00","status":"Applied"}
